@@ -1,1 +1,1 @@
-# Mars-Exploration-ALGO
+# Mars-Exploration-ALGO.This code counts the number of letters in the received message that differ from the expected repeated "SOS" pattern. The marsExploration function iterates through the string, compares each character to the corresponding character in "SOS", and returns the total number of altered letters.
